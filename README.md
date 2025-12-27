@@ -45,5 +45,10 @@ Wi-Fi / MQTT
 
 Cloud-based data storage
 
-# Workflow diagram
+## Workflow Diagram
+![Workflow Diagram](Work-Flow%20Diag.jpg)
+
+## Working Principle Diagram
+![Working Principle Diagram](Working%20Principle%20Diag.jpg)
+
 
